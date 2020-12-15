@@ -25,24 +25,6 @@ Do you want to see this chat in action? Visit https://jdnichollsc.github.io/Ioni
    
 ### **Note**: This project structure is based on my free **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**, you can migrate any Ionic 1.x project to this template to use Gulp in the best way. 
 
-# Other Projects
-- **[PokéDex GO - Community](https://github.com/proyecto26/PokeDex-GO)**
-- **[Ionic Starter Template](http://market.ionic.io/starters/ionic-starter-template)**
-- **[IonPhaser](http://market.ionic.io/plugins/ionphaser)**
-- **[Ionic Drag and Drop](https://github.com/jdnichollsc/Ionic-Drag-and-Drop)**
-- **[Game of Drones](https://github.com/jdnichollsc/Game-of-Drones)**
-
-# Collaborators
-* [nadeemkhan](https://github.com/nadeemkhan) - **Nadeem Khan** &lt;nadeem7khan@gmail.com&gt;
-* [jdnichollsc](https://github.com/jdnichollsc) - **Juan David Nicholls** &lt;jdnichollsc@hotmail.com&gt;
-
-# Credits
-- Ross: https://codepen.io/rossmartin/pen/XJmpQr
-- https://forum.ionicframework.com/t/ionic-elastichat-chat-demo-w-auto-resizing-textarea/13562
-
-# Supporting
-I believe in Unicorns 🦄
-Support [me](http://www.paypal.me/jdnichollsc/2), if you do too.
 
 # Happy coding
 Made with <3
